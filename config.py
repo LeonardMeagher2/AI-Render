@@ -2,7 +2,6 @@ package_name = 'AI-Render'
 default_prompt_text = 'Describe anything you can imagine'
 default_image_filename_template = "ai-render-{timestamp}"
 tmp_path_subfolder = 'ai-render-temp'
-workspace_id = 'AI Render'
 animated_prompts_text_name = 'AI Render Animated Prompts'
 
 ADDON_DOWNLOAD_URL = "https://blendermarket.com/products/ai-render"
